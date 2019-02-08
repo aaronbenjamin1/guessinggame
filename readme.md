@@ -1,6 +1,6 @@
-# Designated Driver
+# Guessing Game
 
-Has the ability to determine how many drinks you can have before reaching .08 BAC. Once that level is reached, it will warn you.
+Guess a number between 1-100 and it will tell you whether you're right or wrong.
 
 ## Built With
 
